@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/khadas/khadas_npu_detect_age/test_program/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+windows.h
+-
+vsi_nn_pub.h
+/home/khadas/khadas_npu_detect_age/test_program/vsi_nn_pub.h
+vnn_global.h
+/home/khadas/khadas_npu_detect_age/test_program/vnn_global.h
+vnn_pre_process.h
+/home/khadas/khadas_npu_detect_age/test_program/vnn_pre_process.h
+vnn_post_process.h
+/home/khadas/khadas_npu_detect_age/test_program/vnn_post_process.h
+vnn_genderh5.h
+/home/khadas/khadas_npu_detect_age/test_program/vnn_genderh5.h
+
+/home/khadas/khadas_npu_detect_age/test_program/vnn_genderh5.h
+vsi_nn_pub.h
+/home/khadas/khadas_npu_detect_age/test_program/vsi_nn_pub.h
+
+/home/khadas/khadas_npu_detect_age/test_program/vnn_global.h
+
+/home/khadas/khadas_npu_detect_age/test_program/vnn_post_process.h
+
+/home/khadas/khadas_npu_detect_age/test_program/vnn_pre_process.h
+

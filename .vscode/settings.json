@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "yoloface_process.h": "c",
+        "vsi_nn_pub.h": "c",
+        "vnn_global.h": "c",
+        "vnn_genderh5.h": "c",
+        "vnn_post_process.h": "c",
+        "vnn_pre_process.h": "c"
+    }
+}
